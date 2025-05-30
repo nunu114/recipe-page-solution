@@ -29,8 +29,8 @@ Mobile
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/nunu114/recipe-page-solution.git](https://github.com/nunu114/recipe-page-solution.git)
+- Live Site URL: [https://recipe-page-nunu.netlify.app/](https://recipe-page-nunu.netlify.app/)
 
 ## My process
 
